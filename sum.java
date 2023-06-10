@@ -6,4 +6,5 @@ public class sum {
         
     system.out.println(a+b);
     }
+    
 }
